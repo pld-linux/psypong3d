@@ -1,0 +1,15 @@
+--- psypong3d-0.9/src/game.h~	2009-01-02 15:51:41.000000000 +0100
++++ psypong3d-0.9/src/game.h	2009-01-11 16:31:02.894365683 +0100
+@@ -48,9 +48,9 @@
+ #define GAME_TIMER 25
+ #define GAME_SLEEP_U 5000
+ #define GAME_SLEEP_S 3
+-#define GAME_TEXTURE_MENU "textures/menu.bmp"
+-#define GAME_TEXTURE_BACKGROUND "textures/background.bmp"
+-#define GAME_TEXTURE_FLOOR "textures/spiral.bmp"
++#define GAME_TEXTURE_MENU "/usr/share/games/psypong3d/textures/menu.bmp"
++#define GAME_TEXTURE_BACKGROUND "/usr/share/games/psypong3d/textures/background.bmp"
++#define GAME_TEXTURE_FLOOR "/usr/share/games/psypong3d/textures/spiral.bmp"
+ #define GAME_FLOOR_WIDTH 128.0f
+ #define GAME_FLOOR_DEPTH 64.0f
+ #define GAME_FLOOR_SIZE_MIN 16.0f

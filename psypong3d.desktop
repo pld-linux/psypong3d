@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=PsyPong3d
+Comment=3D pong clone game
+Comment[pl]=Trójwymiarowy klon gry pong
+Exec=psypong3d
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;
+# vi: encoding=utf-8
